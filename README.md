@@ -1,6 +1,6 @@
 # Ultra Mobile PayGo 使用教程
 
-美国 Ultra Mobile PayGo 实体 SIM 卡，因为月租很便宜（3 美元/月），加上信号稳定，是目前最适合中国大陆用户长期使用的美国卡。\
+美国 Ultra Mobile PayGo 实体 SIM 卡，因为月租很便宜（3 美元/月），加上信号稳定，是目前最适合中国大陆用户长期使用的美国卡。
 
 ## 一、激活
 
