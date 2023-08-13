@@ -59,8 +59,8 @@ ZIP CODE（邮编）：91748
 
 ![](https://i.imgur.com/7txbPjG.jpg)
 
-4、等待激活（如果等待超 5 分钟，说明地址不行，重新填写地址）\
-5、显示下图中间页面表示完成，可以看到显示 Wi-Fi Calling
+3、等待激活（如果等待超 5 分钟，说明地址不行，重新填写地址）\
+4、显示下图中间页面表示完成，可以看到显示 Wi-Fi Calling
 
 > 注：如果未显示 Wi-Fi Calling，设置 - 蜂窝网络 - Wi-Fi 通话，关闭**在 iPhone 上用 Wi-Fi 通话**，再重新打开或者重启 iPhone。
 
