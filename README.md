@@ -1,3 +1,5 @@
+## 务必认真仔细看以下教程
+
 1. [激活](https://github.com/ssnhd/paygo/wiki/激活)
 2. [手机端使用](https://github.com/ssnhd/paygo/wiki/手机端使用)
 3. [资费](https://github.com/ssnhd/paygo/wiki/资费)
