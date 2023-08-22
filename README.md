@@ -12,5 +12,3 @@
 - TG 客服：[@GV188](https://t.me/GV188) （北美Tim）
 - Email：<ahezuo@gmail.com> 
 - 程序员电报群：[@V2EXPro](https://t.me/V2EXPro)
-
-![](https://i.imgur.com/9ysVXCr.png)
