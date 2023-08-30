@@ -1,4 +1,4 @@
-## 美国手机实体 SIM 卡使用教程
+## 美国实体手机 SIM 卡使用教程
 
 1. [激活](https://github.com/ssnhd/paygo/wiki/激活)
 2. [手机端](https://github.com/ssnhd/paygo/wiki/手机端使用)
