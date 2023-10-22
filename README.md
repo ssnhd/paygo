@@ -26,8 +26,9 @@
 ## 插卡使用
 
 激活后将 SIM 卡插入手机等待出现信号，会收到短信代表正常。
-【安卓】设置 > 通话设置 > WLAN 通话 > 拨号偏好 > WLAN 优选。\
-【苹果】插卡即可使用，另外 iPhone 支持 Wi-Fi Calling 通话功能，享受 100 分钟免费接打通话、100 条免费收发短信。
+
+【Android】设置 > 通话设置 > WLAN 通话 > 拨号偏好 > WLAN 优选。\
+【iOS】插卡即可使用，另外 iPhone 支持 Wi-Fi Calling 通话功能，享受 100 分钟免费接打通话、100 条免费收发短信。
 
 **iPhone 上设置 Wi-Fi Calling**
 
@@ -61,8 +62,8 @@ ZIP CODE（邮编）：11422
 
 ### 手机端
 
-【苹果】美区 App Store 安装 [Ultra Mobile](https://apps.apple.com/us/app/ultra-mobile/id1463041935?l=zh)。（如没有美区 Apple ID [点击购买](https://github.com/ssnhd/googlevoice)）\
-【安卓】打开谷歌框架，美区 Google Play 安装 [Ultra Mobile](https://play.google.com/store/apps/details?id=com.uvnv.ultramobile)，或者下载 [APK](https://apkpure.com/cn/ultra-mobile/com.uvnv.ultramobile) 安装
+【iOS】美区 App Store 安装 [Ultra Mobile](https://apps.apple.com/us/app/ultra-mobile/id1463041935?l=zh)。（如没有美区 Apple ID [点击购买](https://github.com/ssnhd/googlevoice)）\
+【Android】打开谷歌框架，美区 Google Play 安装 [Ultra Mobile](https://play.google.com/store/apps/details?id=com.uvnv.ultramobile)，或者下载 [APK](https://apkpure.com/cn/ultra-mobile/com.uvnv.ultramobile) 安装
 
 开启代理并登录账号，**ACCOUNT**（账户） > **Payment Method**（支付方式）填写信用卡信息充值。
 ![](https://i.imgur.com/VEJ42Ts.jpg)
