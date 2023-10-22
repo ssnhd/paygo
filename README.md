@@ -58,21 +58,21 @@ ZIP CODE（邮编）：11422
 
 ## 充值
 
-⚠️如没有信用卡，可以联系[客服](https://t.me/GVStore)进行充值。
+⚠>注：如没有信用卡，可以联系[客服](https://t.me/GVStore)进行充值。
 
-### 手机端
+**手机端**
 
 【iOS】美区 App Store 安装 [Ultra Mobile](https://apps.apple.com/us/app/ultra-mobile/id1463041935?l=zh)。（如没有美区 Apple ID [点击购买](https://github.com/ssnhd/googlevoice)）\
 【Android】打开谷歌框架，美区 Google Play 安装 [Ultra Mobile](https://play.google.com/store/apps/details?id=com.uvnv.ultramobile)，或者下载 [APK](https://apkpure.com/cn/ultra-mobile/com.uvnv.ultramobile) 安装
 
 开启代理并登录账号，**ACCOUNT**（账户） > **Payment Method**（支付方式）填写信用卡信息充值。
-![](https://i.imgur.com/VEJ42Ts.jpg)
 
-### 网页端
+
+**网页端**
 
 打开[官网](https://my.ultramobile.com/account/paygo)并登录，点击**加载 PayGo 钱包**，选择金额，填写信用卡信息充值。
 
-![](https://i.imgur.com/Kd8ojXK.png)
+
 
 ## 常见问题
 **1. 网页激活过程中遇到报错，或者等待时间太长，中途关闭了网页**\
