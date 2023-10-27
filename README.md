@@ -66,8 +66,12 @@
 
 **手机端**
 
-【iOS】美区 App Store 安装 [Ultra Mobile](https://apps.apple.com/us/app/ultra-mobile/id1463041935?l=zh)。（如没有美区 Apple ID [点击购买](https://github.com/ssnhd/googlevoice)）\
-【Android】打开谷歌框架，美区 Google Play 安装 [Ultra Mobile](https://play.google.com/store/apps/details?id=com.uvnv.ultramobile)，或者下载 [APK](https://apkpure.com/cn/ultra-mobile/com.uvnv.ultramobile) 安装
+
+| 设备 | 安装 App |  
+|---|---|
+| iOS | 美区 App Store 安装 [Ultra Mobile](https://apps.apple.com/us/app/ultra-mobile/id1463041935?l=zh)。（如没有美区 Apple ID [点击购买](https://github.com/ssnhd/googlevoice)） | 
+| Android | 打开谷歌框架，美区 Google Play 安装 [Ultra Mobile](https://play.google.com/store/apps/details?id=com.uvnv.ultramobile)，或者下载 [APK](https://apkpure.com/cn/ultra-mobile/com.uvnv.ultramobile) 安装 |
+
 
 开启代理并登录账号，**ACCOUNT**（账户） > **Payment Method**（支付方式）填写信用卡信息充值。
 
