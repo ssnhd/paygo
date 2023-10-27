@@ -28,12 +28,16 @@
 
 ## 插卡使用
 
-将 SIM 卡插入手机等待出现信号，收到短信代表正常。
+将 SIM 卡插入手机等待出现信号，收到短信即可正常使用。
 
-【Android】设置 > 通话设置 > WLAN 通话 > 拨号偏好 > WLAN 优选。\
-【iOS】插卡即可使用，另外 iPhone 支持 Wi-Fi Calling 通话功能，享受 100 分钟免费接打通话、100 条免费收发短信。
 
-**iPhone 上设置 Wi-Fi Calling**
+| 设备 | 设置 |  
+|---|---|
+| Android | 设置 > 通话设置 > WLAN 通话 > 拨号偏好 > WLAN 优选。 |  
+| iOS | 插卡即可使用。iPhone 支持 Wi-Fi Calling 通话功能，享受 100 分钟免费接打通话、100 条免费收发短信 | 
+
+
+**iPhone 上设置 Wi-Fi Calling**：
 
 1. iPhone 连接 Wi-Fi，将卡插入手机等待有信号。
 2. 打开**设置** - **蜂窝网络** - **Wi-Fi 通话（无线局域网通话）**，打开**在 iPhone 上用 Wi-Fi 通话**（下图左），点击**启用**（下图中）
@@ -52,11 +56,11 @@ ZIP CODE（邮编）：11422
 
 4. 直到显示下图（中）表示完成，点击 **Close**，等待一会信号处会显示 Wi-Fi Calling。
 
-> 注：如果未显示 Wi-Fi Calling，设置 - 蜂窝网络 - Wi-Fi 通话，关闭**在 iPhone 上用 Wi-Fi 通话**，再重新打开或者重启 iPhone，和你当地的网络也有关系，耐心等待。
-
 ![](https://i.imgur.com/4640m95.jpg)
 
-
+**如果未显示 Wi-Fi Calling 的几种设置**
+- 设置 - 蜂窝网络 - Wi-Fi 通话，关闭**在 iPhone 上用 Wi-Fi 通话**，再重新打开
+- 设置 - 通用 - 传输或还原 iPhone- 还原 - 还原网络设置
 
 
 ## 充值
