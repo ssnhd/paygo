@@ -42,15 +42,12 @@
 1. iPhone 连接 Wi-Fi，将卡插入手机等待有信号。
 2. 打开**设置** - **蜂窝网络** - **Wi-Fi 通话（无线局域网通话）**，打开**在 iPhone 上用 Wi-Fi 通话**（下图左），点击**启用**（下图中）
 3. 出现填写美国地址弹窗（下图右），填写美国地址，勾选**确认以上信息**，点击 **Submit**。
-```
-美国地址示例：
-ADDRESS 1（地址）：235-20 147th Ave
-CITY（城市）：Queens
-STATE（州）：NY
-ZIP CODE（邮编）：11422
-```
 
-> 注：如果不想用上面的地址，可以在 [Google 地图](https://www.google.com/maps)选址或使用[美国地址生成器](https://www.meiguodizhi.com/)。
+>如果不想用下面的地址，可以在 [Google 地图](https://www.google.com/maps)选址或[美国地址生成器](https://www.meiguodizhi.com/)。
+>- ADDRESS 1（地址）：235-20 147th Ave
+>- CITY（城市）：Queens
+>- STATE（州）：NY
+>- ZIP CODE（邮编）：11422
 
 ![](https://i.imgur.com/7txbPjG.jpg)
 
