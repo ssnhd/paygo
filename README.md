@@ -1,125 +1,134 @@
 # 美国实体卡 Ultra Mobile PayGo 激活使用教程
 
+购买：https://t.me/GVStore
+
 ## 资费
 
-| 类别 | 费用 | 
+|  | 费用 |  
 |---|---|
-| 月租 | 3 美元 |  
-| 收短信 | 0.1 美元／条 |  
+| 月租 | 3 美元（激活首月免月租） |
+| 收短信 | 0.1 美元／条|  
 | 发短信 | 0.5 美元／条 |  
-| 接打电话 | 3.59 美元／分钟 |  
-| 流量 | 0.2 美元／MB |  
-
-| Wi-Fi Calling 环境下 | 享受 | 
-|---|---|
-| 接打电话 | 免费 100 分钟／月 |
-| 收发短信 | 免费 100 条／月 |
+| 接打电话 | 3.59 美元／分钟 |   
+| Wi-Fi Calling | 每月免费：100 分钟电话，100 条短信 | 
 
 
 ## 激活
-图文教程点击[这里](https://github.com/ssnhd/paygo/wiki/激活)
 
-1. 开启代理，打开[官网](https://my.ultramobile.com/paygo/activation)右上角选择**中文**，输入卡背面右上角 ACT CODE 11 位代码，输完点击**开始或恢复激活**。
-2. 检查设备兼容性页面，点击**跳过**。
-3. 号码归属地由邮编决定，输入一个美国邮政编码（例如纽约 `10008`），勾选**使用条款**，点击**激活新号码**。
-4. 激活成功号码会显示在右侧，无需添加付款信息，点击**先跳过**。
-5. 【用户资料】任意填写，【访问网上账户】用户名和密码务必牢记！然后点击**提交信息**。
+友情提示：激活时根据美国州邮编随机分配号码，如果要指定号码（靓号收费），请在未激活前联系 [TG 客服](https://simgv.com/2023/03/19/store/)。
 
+1、开启代理，打开[官网](https://my.ultramobile.com/paygo/activation)右上角选择**中文**，输入卡背面右上角 ACT CODE 11 位代码，输完点击**开始或恢复激活**。\
+2、检查设备兼容性页面，点击**跳过**。\
+3、输入美国州邮政编码（号码归属地由各州邮编决定），勾选**使用条款**，点击**激活新号码**。
 
-## 插卡使用
-
-将 SIM 卡插入手机等待出现信号，收到短信即可正常使用。
-
-
-| 设备 | 设置 |  
-|---|---|
-| Android | 设置 > 通话设置 > WLAN 通话 > 拨号偏好 > WLAN 优选。 |  
-| iOS | 插卡即可使用。iPhone 支持 Wi-Fi Calling 通话功能，享受 100 分钟免费接打通话、100 条免费收发短信 | 
+>- 想要哪个地区的号码，就输入该地区邮编，例如：
+>- 纽约号码，输入邮编：10008
+>- 华盛顿号码，输入邮编：20001
+>- 西雅图号码，输入邮编：90016
 
 
-**iPhone 上设置 Wi-Fi Calling**：
+![](https://i.imgur.com/fJEx4vH.png)
 
-1. iPhone 连接 Wi-Fi，将卡插入手机等待有信号。
-2. 打开**设置** - **蜂窝网络** - **Wi-Fi 通话（无线局域网通话）**，打开**在 iPhone 上用 Wi-Fi 通话**（下图左），点击**启用**（下图中）
-3. 出现填写美国地址弹窗（下图右），填写美国地址，勾选**确认以上信息**，点击 **Submit**。
+4、无需添加付款信息，点击**先跳过**。
 
->如果不想用下面的地址，可以在 [Google 地图](https://www.google.com/maps)选址或[美国地址生成器](https://www.meiguodizhi.com/)。
->- ADDRESS 1（地址）：235-20 147th Ave
->- CITY（城市）：Queens
->- STATE（州）：NY
->- ZIP CODE（邮编）：11422
+![](https://i.imgur.com/ET05Fz4.png)
 
-![](https://i.imgur.com/7txbPjG.jpg)
+5、填写名字、姓氏、邮件、用户名和密码（至少 8 位，包含一个大写、小写、数字和字符）。然后点击**提交信息**。`注：这些信息要牢记`
 
-4. 直到显示下图（中）表示完成，点击 **Close**，等待一会信号处会显示 Wi-Fi Calling。
+![](https://i.imgur.com/VZOvijw.png)
 
-![](https://i.imgur.com/4640m95.jpg)
+6、激活已完成，卡插入手机等待出现信号，会收到运营商短信，即可正常使用。
 
-**如果未显示 Wi-Fi Calling 的几种设置**
-- 设置 - 蜂窝网络 - Wi-Fi 通话，关闭**在 iPhone 上用 Wi-Fi 通话**，再重新打开
-- 设置 - 通用 - 传输或还原 iPhone- 还原 - 还原网络设置
-
+![](https://i.imgur.com/PHL1Emr.png)
 
 ## 充值
 
-充值需要使用支持美元的信用卡（例如 VISA），如果没有可以联系[客服](https://t.me/GVStore)进行充值。
+**App 充值**：开代理，手机安装 Ultra Mobile 并登录，**ACCOUNT** > **Payment Method** 选择金额，填写信用卡信息充值。\
+**官网充值**：打开[官网](https://my.ultramobile.com/account/paygo)并登录，点击**加载 PayGo 钱包**，选择金额，填写信用卡信息充值。
 
-**手机端**
-
-
-| 设备 | 安装 App |  
-|---|---|
-| iOS | 美区 App Store 安装 [Ultra Mobile](https://apps.apple.com/us/app/ultra-mobile/id1463041935?l=zh)。（如没有美区 Apple ID [点击购买](https://github.com/ssnhd/googlevoice)） | 
-| Android | 打开谷歌框架，美区 Google Play 安装 [Ultra Mobile](https://play.google.com/store/apps/details?id=com.uvnv.ultramobile)，或者下载 [APK](https://apkpure.com/cn/ultra-mobile/com.uvnv.ultramobile) 安装 |
+>注：需用支持美元的信用卡（例如 VISA），如果没有可以联系[客服](https://simgv.com/2023/03/19/store/)代充。
 
 
-开启代理并登录账号，**ACCOUNT**（账户） > **Payment Method**（支付方式）填写信用卡信息充值。
+## 忘记充值
+如果你未在续订日期之前付款，帐户将被暂停。当帐户被暂停时，无法拨打或接听电话或短信。
+
+帐户被暂停后，有 30 天的时间进行充值。 30 天后，号码将从系统中硬删除，并且将无法再获取。
 
 
-**网页端**
+## 保号
+只要按时交月租，就能一直使用。如果账户欠费超 30 天，号码将从系统中硬删除，并且将无法再获取。
 
-打开[官网](https://my.ultramobile.com/account/paygo)并登录，点击**加载 PayGo 钱包**，选择金额，填写信用卡信息充值。
+## 手机 App
+手机安装 Ultra Mobile，开启代理登录，可查看余额、充值等信息。
+
+## Wi-Fi Calling
+Wi-Fi Calling 是指通过 Wi-Fi 网络拨打和接听电话和短信，每月免费 100 分钟电话和 100 条短信。
+
+注：Wi-Fi Calling 不是 100% 能开启，有些地区用户秒开，有些地区无效（如果不行手机还原网络，再重新按照下面步骤操作），自行测试。
+
+**iPhone 启用 Wi-Fi Calling**
+
+1. iPhone【设置】-【蜂窝网络】
+2. 【Wi-Fi 通话或无线局域网通话】-【在 iPhone 上用 Wi-Fi 通话】-【启用】。
+3. 弹窗里输入美国 E911 地址，勾选确认信息并点击【Submit】-【Close】。
+4. 等待约 10 分钟，iPhone 信号处会显示 Wi-Fi Calling 字样表示已启用。
+
+    >地址示例：\
+    >ADDRESS 1 地址：235-20 147th Ave\
+    >CITY 城市：Queens\
+    >STATE 州：NY\
+    >ZIP CODE 邮编：11422
+![](https://i.imgur.com/7txbPjG.jpg)
+![](https://i.imgur.com/4640m95.jpg)
+
+**Android 启用 Wi-Fi Calling**
+1. 进入 Android 手机的设置
+2. 选择【连接】
+3. 打开【Wi-Fi Calling】旁边的开关（注：因 Android 品牌和型号而异，有些手机不支持）
+4. 输入美国 E911 地址
+
+官方指引：[点击这里](https://www.ultramobile.com/blog/what-is-wifi-calling/)
+
+## eSIM
+
+eSIM 是数字化的物理 SIM 卡，一旦转到 eSIM，无需将 SIM 卡插入手机即可使用。[检查您的手机是否兼容 eSIM（国行手机不支持，有锁手机不支持）](https://www.ultramobile.com/esim/#esim-lp-compatibility)。
+
+1. 手机连接 Wi-Fi、打开代理、打开 Ultra Mobile App 并登录。
+2. 点击 **Account** > 找到 My SIM 里 **Change Device** > **Switch to an eSIM** > **This is my new device** > **Order now**。
+3. 提示连接无线网，点击 **I have Wi-Fi**，点击 **Order now**，按提示操作即可。
+
+除了上述方法，你还可以联系官方客服转 eSIM，拨打客服电话 888-777-0446 或者官网人工客服（北京时间 22 点上班），告知将 SIM 更换成 eSIM，按照客服提示操作即可。
+
+## eSIM 转实体卡
+在 Ultra Mobile App eSIM 菜单里，**Continue using physical SIM card** 是将 eSIM 转换为实体卡，需要有美国地址收件，寄一张转换后的实体 SIM 卡给你。
+
+注：如果你在中国需要通过转运快递才可以邮寄到国内。
+
+## eSIM 收费吗？
+12 个月内免费申请 2 次 eSIM，超过 2 次后每次收费 3 美金。
+
+## 补卡
+联系 Ultra Mobile 在线客服或者打客服电话，提供以下资料验证号码所有权：
+
+1. Ultra Mobile 官网登记的姓名、美国地址；
+2. 绑定的邮箱；
+3. 充值信用卡后 4 位；
+4. Wi-Fi Calling 的地址；
+5. 5 个联系人电话。
+
+验证通过后向 Ultra Mobile PayGo 钱包充值 13 美元，客服会在 3 个工作日内补发，收件地址必须是美国的（例如转运公司地址），然后再转运到中国。
+
+## 官网流量包
+官网流量包和语音叠加不能在中国使用，只能在美国境内使用。
+
+## 换号码
+一年不超过 2 次更换号码，官网联系在线人工客服/电话客服。更换号码时，SIM 卡、余额、登录密码都不变。
+
+## 人工客服
+- 官网在线客服（右下角），北京时间每天 22 点人工客服上班。
+- 电话 +1(888) 777-0446，英文客服接通后说“Can you speak Chinese”接入中文人工客服
+
+友情提示：请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负。
 
 
-
-## 常见问题
-**1. 网页激活过程中遇到报错，或者等待时间太长，中途关闭了网页**\
-可以再次打开官网重新激活，如果提示「This sim has already been activated」说明卡已经激活成功。插卡到手机等待有信号，看是否能收到激活成功的短信。
-
-**2. 什么是 Wi-Fi 通话？**\
-Wi-Fi 通话也叫 Wi-Fi Calling 或「无线局域网通话」，借助 Wi-Fi 通话功能，可以在有 Wi-Fi 连接但蜂窝网络信号很差或无信号的区域拨打或接听电话。
-
-**3. Wi-Fi Calling 支持机型？**\
-iPhone 7 及以上，美版 iPhone 必须是官方无锁版；安卓不支持（充值使用正常收费）
-
-**4. 会被销户吗？**\
-按时缴纳月租可以一直用。月租到期超过 30 天你的号码有可能被收回，请知悉
-
-**5. 有手机应用吗？**\
-有的，参考上面手机充值，可以充值、查看余额和个人资料等。
-
-**6. Ultra Mobile 人工客服**\
-①官网在线客服（右下角）\
-②电话 +1(888) 777-0446，英文客服接通后说“Can you speak Chinese”接入中文人工客服
-
-**7. 手机卡损坏或丢了，如何补办？**\
-联系 Ultra Mobile 在线客服或者打电话给客服，验证号码所有权：\
-①Ultra Mobile 官网登记的姓名、美国地址；\
-②绑定的邮箱；\
-③充值信用卡后 4 位；\
-④Wi-Fi Calling 的地址、\
-⑤5 个联系人电话。\
-验证通过后向 Ultra Mobile PayGo 钱包充值 13 美元，客服会在 3 个工作日内补发，收件地址必须是美国的，例如一些转运公司地址，然后再转运到中国。
-
-**8. 官网流量包能在中国使用吗？**\
-不能，官网里的流量包和语音叠加是在美国本土使用。
-
-## 声明
-
-教程均针对旅游使用，请遵守当地法律法规，违规与本帖无关。
-
-## 商店
-
-GV｜🇺🇸美国 🇬🇧英国 🇳🇿新西兰实体 SIM 卡｜ChatGPT｜TG｜Apple ID 礼品卡
-
-TG 商店：[@GVStore](https://t.me/gvstore)（打开点击 `Preview channel` 可网页预览）
+ 
