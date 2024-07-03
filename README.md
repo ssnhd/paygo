@@ -15,30 +15,25 @@
 
 ## 激活
 
-友情提示：激活时根据美国州邮编随机分配号码，如果要指定号码（靓号收费），请在未激活前联系 [TG 客服](https://simgv.com/2023/03/19/store/)。
+友情提示：激活时根据美国州邮编随机分配号码，如果要指定号码（靓号收费），请在未激活前联系 [TG 客服]( https://t.me/GVStore)。
 
-1、开启代理，打开[官网](https://my.ultramobile.com/paygo/activation)右上角选择**中文**，输入卡背面右上角 ACT CODE 11 位代码，输完点击**开始或恢复激活**。\
-2、检查设备兼容性页面，点击**跳过**。\
-3、输入美国州邮政编码（号码归属地由各州邮编决定），勾选**使用条款**，点击**激活新号码**。
+1. 开启代理，打开[官网](https://my.ultramobile.com/paygo/activation)右上角选择**中文**，输入卡背面右上角 ACT CODE 11 位代码，输完点击**开始或恢复激活**。
+2. 检查设备兼容性页面，点击**跳过**。
+3. 输入美国州邮政编码（号码归属地由各州邮编决定），勾选**使用条款**，点击**激活新号码**。
 
 >- 想要哪个地区的号码，就输入该地区邮编，例如：
 >- 纽约号码，输入邮编：10008
 >- 华盛顿号码，输入邮编：20001
 >- 西雅图号码，输入邮编：90016
-
-
 ![](https://i.imgur.com/fJEx4vH.png)
 
-4、无需添加付款信息，点击**先跳过**。
-
+4. 无需添加付款信息，点击**先跳过**。
 ![](https://i.imgur.com/ET05Fz4.png)
 
-5、填写名字、姓氏、邮件、用户名和密码（至少 8 位，包含一个大写、小写、数字和字符）。然后点击**提交信息**。`注：这些信息要牢记`
-
+5. 填写名字、姓氏、邮件、用户名和密码（至少 8 位，包含一个大写、小写、数字和字符）。然后点击**提交信息**。`【注】这些信息要牢记`
 ![](https://i.imgur.com/VZOvijw.png)
 
-6、激活已完成，卡插入手机等待出现信号，会收到运营商短信，即可正常使用。
-
+6. 激活已完成，卡插入手机等待出现信号，会收到运营商短信，即可正常使用。
 ![](https://i.imgur.com/PHL1Emr.png)
 
 ## 充值
@@ -46,7 +41,7 @@
 **App 充值**：开代理，手机安装 Ultra Mobile 并登录，**ACCOUNT** > **Payment Method** 选择金额，填写信用卡信息充值。\
 **官网充值**：打开[官网](https://my.ultramobile.com/account/paygo)并登录，点击**加载 PayGo 钱包**，选择金额，填写信用卡信息充值。
 
->注：需用支持美元的信用卡（例如 VISA），如果没有可以联系[客服](https://simgv.com/2023/03/19/store/)代充。
+【注】需用支持美元的信用卡（例如 VISA），如果没有可以联系[客服](https://simgv.com/2023/03/19/store/)代充。
 
 
 ## 忘记充值
@@ -64,27 +59,28 @@
 ## Wi-Fi Calling
 Wi-Fi Calling 是指通过 Wi-Fi 网络拨打和接听电话和短信，每月免费 100 分钟电话和 100 条短信。
 
-注：Wi-Fi Calling 不是 100% 能开启，有些地区用户秒开，有些地区无效（如果不行手机还原网络，再重新按照下面步骤操作），自行测试。
+【注】Wi-Fi Calling 不是 100% 能开启，有些地区用户秒开，有些地区无效（如果不行手机还原网络，再重新按照下面步骤操作），自行测试。
 
-**iPhone 启用 Wi-Fi Calling**
+**iPhone 启用 Wi-Fi Calling**：
 
 1. iPhone【设置】-【蜂窝网络】
 2. 【Wi-Fi 通话或无线局域网通话】-【在 iPhone 上用 Wi-Fi 通话】-【启用】。
 3. 弹窗里输入美国 E911 地址，勾选确认信息并点击【Submit】-【Close】。
 4. 等待约 10 分钟，iPhone 信号处会显示 Wi-Fi Calling 字样表示已启用。
 
-    >地址示例：\
-    >ADDRESS 1 地址：235-20 147th Ave\
-    >CITY 城市：Queens\
-    >STATE 州：NY\
-    >ZIP CODE 邮编：11422
+>地址示例：\
+>ADDRESS 1 地址：235-20 147th Ave\
+>CITY 城市：Queens\
+>STATE 州：NY\
+>ZIP CODE 邮编：11422
+
 ![](https://i.imgur.com/7txbPjG.jpg)
 ![](https://i.imgur.com/4640m95.jpg)
 
-**Android 启用 Wi-Fi Calling**
+**Android 启用 Wi-Fi Calling**：
 1. 进入 Android 手机的设置
 2. 选择【连接】
-3. 打开【Wi-Fi Calling】旁边的开关（注：因 Android 品牌和型号而异，有些手机不支持）
+3. 打开【Wi-Fi Calling】旁边的开关（【注】因 Android 品牌和型号而异，有些手机不支持）
 4. 输入美国 E911 地址
 
 官方指引：[点击这里](https://www.ultramobile.com/blog/what-is-wifi-calling/)
@@ -102,7 +98,7 @@ eSIM 是数字化的物理 SIM 卡，一旦转到 eSIM，无需将 SIM 卡插入
 ## eSIM 转实体卡
 在 Ultra Mobile App eSIM 菜单里，**Continue using physical SIM card** 是将 eSIM 转换为实体卡，需要有美国地址收件，寄一张转换后的实体 SIM 卡给你。
 
-注：如果你在中国需要通过转运快递才可以邮寄到国内。
+【注】如果你在中国需要通过转运快递才可以邮寄到国内。
 
 ## eSIM 收费吗？
 12 个月内免费申请 2 次 eSIM，超过 2 次后每次收费 3 美金。
