@@ -59,7 +59,9 @@
 ## Wi-Fi Calling
 Wi-Fi Calling 是指通过 Wi-Fi 网络拨打和接听电话和短信，每月免费 100 分钟电话和 100 条短信。
 
-【注】Wi-Fi Calling 在中国部分地区用户秒开，部分地区开启较慢或无法开启，如果无法开启尝试 ①iPhone 设置里[还原网络](https://support.apple.com/zh-cn/111786)；②iPhone 开启代理或者关闭代理测试。
+【注】Wi-Fi Calling 在中国部分地区用户秒开，部分地区开启较慢或无法开启，如果无法开启尝试以下操作：
+- 手机设置里[还原网络](https://support.apple.com/zh-cn/111786)；
+- 手机开启或关闭代理测试。
 
 ### iPhone 启用 Wi-Fi Calling 步骤
 官方指引：[点击这里](https://www.ultramobile.com/blog/what-is-wifi-calling/)
@@ -83,8 +85,6 @@ Wi-Fi Calling 是指通过 Wi-Fi 网络拨打和接听电话和短信，每月�
 2. 选择【连接】
 3. 打开【Wi-Fi Calling】旁边的开关（【注】因 Android 品牌和型号而异，有些手机不支持）
 4. 输入美国 E911 地址
-
-
 
 ## eSIM
 
