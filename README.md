@@ -17,7 +17,7 @@
 
 友情提示：激活时根据美国州邮编随机分配号码，如果要指定号码（靓号收费），请在未激活前联系 [TG 客服]( https://t.me/GVStore)。
 
-1. 开启代理，打开[官网](https://my.ultramobile.com/paygo/activation)右上角选择**中文**，输入卡背面右上角 ACT CODE 11 位代码，输完点击**开始或恢复激活**。
+1. 打开[官网](https://my.ultramobile.com/paygo/activation)右上角选择**中文**，输入卡背面右上角 ACT CODE 11 位代码，输完点击**开始或恢复激活**。
 2. 检查设备兼容性页面，点击**跳过**。
 3. 输入美国州邮政编码（号码归属地由各州邮编决定），勾选**使用条款**，点击**激活新号码**。
 
@@ -38,7 +38,7 @@
 
 ## 充值
 
-**App 充值**：开代理，手机安装 Ultra Mobile 并登录，**ACCOUNT** > **Payment Method** 选择金额，填写信用卡信息充值。\
+**App 充值**：手机安装 Ultra Mobile 并登录，**ACCOUNT** > **Payment Method** 选择金额，填写信用卡信息充值。\
 **官网充值**：打开[官网](https://my.ultramobile.com/account/paygo)并登录，点击**加载 PayGo 钱包**，选择金额，填写信用卡信息充值。
 
 【注】需用支持美元的信用卡（例如 VISA），如果没有可以联系[客服](https://simgv.com/2023/03/19/store/)代充。
@@ -54,7 +54,7 @@
 只要按时交月租，就能一直使用。如果账户欠费超 30 天，号码将从系统中硬删除，并且将无法再获取。
 
 ## 手机 App
-手机安装 Ultra Mobile，开启代理登录，可查看余额、充值等信息。
+手机安装 Ultra Mobile 并登录，可查看余额、充值等信息。
 
 ## Wi-Fi Calling
 Wi-Fi Calling 是指通过 Wi-Fi 网络拨打和接听电话和短信，每月免费 100 分钟电话和 100 条短信。
@@ -90,7 +90,7 @@ Wi-Fi Calling 是指通过 Wi-Fi 网络拨打和接听电话和短信，每月�
 
 eSIM 是数字化的物理 SIM 卡，一旦转到 eSIM，无需将 SIM 卡插入手机即可使用。[检查您的手机是否兼容 eSIM（国行手机不支持，有锁手机不支持）](https://www.ultramobile.com/esim/#esim-lp-compatibility)。
 
-1. 手机连接 Wi-Fi、打开代理、打开 Ultra Mobile App 并登录。
+1. 手机连接 Wi-Fi，打开 Ultra Mobile App 并登录。
 2. 点击 **Account** > 找到 My SIM 里 **Change Device** > **Switch to an eSIM** > **This is my new device** > **Order now**。
 3. 提示连接无线网，点击 **I have Wi-Fi**，点击 **Order now**，按提示操作即可。
 
