@@ -97,10 +97,11 @@ Wi-Fi Calling 是指通过 Wi-Fi 网络拨打和接听电话和短信，每月�
 
 ## eSIM
 
-eSIM 是数字化的物理 SIM 卡，一旦转到 eSIM，无需将 SIM 卡插入手机即可使用。[检查您的手机是否兼容 eSIM（国行手机不支持，有锁手机不支持）](https://www.ultramobile.com/esim/#esim-lp-compatibility)。
+eSIM 是数字化的物理 SIM 卡，一旦转到 eSIM，无需将 SIM 卡插入手机即可使用。\
+【注】[检查您的手机是否兼容 eSIM（国行手机不支持，有锁手机不支持）](https://www.ultramobile.com/esim/#esim-lp-compatibility)。
 
 1. 手机连接 Wi-Fi，打开 Ultra Mobile App 并登录。
-2. 点击 **Account** > 找到 My SIM 里 **Change Device** > **Switch to an eSIM** > **This is my new device** > **Order now**。
+2. 点击 **Account** > 找到 My SIM 里 **Change Device** → **Switch to an eSIM** → **This is my new device** → **Order now**。
 3. 提示连接无线网，点击 **I have Wi-Fi**，点击 **Order now**，按提示操作即可。
 
 除了上述方法，你还可以联系官方客服转 eSIM，拨打客服电话 888-777-0446 或者官网人工客服（北京时间 22 点上班），告知将 SIM 更换成 eSIM，按照客服提示操作即可。
