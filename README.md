@@ -39,7 +39,7 @@
 **App 充值**：手机安装 Ultra Mobile 并登录，**ACCOUNT** > **Payment Method** 选择金额，填写信用卡信息充值。\
 **官网充值**：打开[官网](https://my.ultramobile.com/account/paygo)并登录，点击**加载 PayGo 钱包**，选择金额，填写信用卡信息充值。
 
-【注】需用支持美元的信用卡（例如 VISA），如果没有可以联系[客服](https://simgv.com/2023/03/19/store/)代充。
+【注】使用双币/全币信用卡充值（例如卡上有 VISA 字样），也可以联系[客服](https://t.me/GVStore)代充。
 
 ## 忘记充值
 如果你未在续订日期之前付款，帐户将被暂停。当帐户被暂停时，无法拨打或接听电话或短信。\
