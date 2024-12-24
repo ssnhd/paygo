@@ -95,15 +95,14 @@ Wi-Fi Calling 是指通过 Wi-Fi 网络拨打和接听电话和短信，每月�
 3. 打开【Wi-Fi Calling】旁边的开关（【注】因 Android 品牌和型号而异，有些手机不支持）
 4. 输入美国 E911 地址
 
-## eSIM
+## eSIM 步骤
 
-eSIM 是数字化的物理 SIM 卡，一旦转到 eSIM，无需将 SIM 卡插入手机即可使用，同时实体卡自动作废。\
-【注】[检查手机是否兼容 eSIM](https://www.ultramobile.com/esim/#esim-lp-compatibility) （国行手机不支持，外版有锁手机不支持）。
+注：国行手机和外版有锁机均不支持 eSIM。
 
 ### 方法一
-1. 手机连接 Wi-Fi，打开 Ultra Mobile App 并登录。
-2. 点击 **Account** > 找到 My SIM 里 **Change Device** → **Switch to an eSIM** → **This is my new device** → **Order now**。
-3. 提示连接无线网，点击 **I have Wi-Fi**，点击 **Order now**，按提示操作即可。
+1. 手机关闭 Wi-Fi，使用国内手机卡数据流量登录 Ultra Mobile App
+2. 登录后打开 Wi-Fi，点击 **Account** > 找到 My SIM 里 **Change Device** → **Switch to an eSIM** → **This is my new device** → **Order now**
+3. 提示连接无线网，点击 **I have Wi-Fi**，点击 **Order now**，按提示操作，等待 eSIM 激活成功手机有信号即可使用
 
 ### 方法二
 官网右下角联系人工客服（北京时间 22 点上班），或者拨打客服电话 888-777-0446，告知将 SIM 更换成 eSIM，按照客服提示操作即可。
