@@ -101,7 +101,7 @@ Wi-Fi Calling 是指通过 Wi-Fi 网络拨打和接听电话和短信，每月�
 
 ### 方法一
 1. 手机关闭 Wi-Fi，使用国内手机卡数据流量登录 Ultra Mobile App
-2. 登录后打开 Wi-Fi，点击 **Account** > 找到 My SIM 里 **Change Device** → **Switch to an eSIM** → **This is my new device** → **Order now**
+2. 手机打开 Wi-Fi，点击 **Account** > 找到 My SIM 里 **Change Device** → **Switch to an eSIM** → **This is my new device** → **Order now**
 3. 提示连接无线网，点击 **I have Wi-Fi**，点击 **Order now**，按提示操作，等待 eSIM 激活成功手机有信号即可使用
 
 ### 方法二
