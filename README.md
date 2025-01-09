@@ -22,11 +22,14 @@
 2. 输入【名字】【姓氏】【邮编】【邮箱】，勾选同意，点击【继续】
 【注】号码归属地由各州邮编决定，例如：想要纽约号码，邮编就输入：10008
 ![](https://i.imgur.com/mVrOFTF.png)
+
 3.点击【获得新手机号】，再次点击【获得新手机号】
 ![](https://i.imgur.com/bMZjwIQ.png)
+
 4. 输入密码
 ![](https://i.imgur.com/mVrOFTF.png)
-5. 等待激活完成，手机会有信号，即可正常使用。
+
+6. 等待激活完成，手机会有信号，即可正常使用。
 ![](https://i.imgur.com/TFayLS4.png)
 
 ## 充值
