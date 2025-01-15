@@ -88,7 +88,7 @@ Wi-Fi Calling 是指通过 Wi-Fi 网络拨打和接听电话和短信，每月�
 3. 打开【Wi-Fi Calling】旁边的开关（【注】因 Android 品牌和型号而异，有些手机不支持）
 4. 输入美国 E911 地址
 
-## eSIM 步骤
+## 转 eSIM
 
 注：国行手机和外版有锁机均不支持 eSIM。
 
