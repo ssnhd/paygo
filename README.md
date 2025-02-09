@@ -26,7 +26,7 @@
 ![](https://i.imgur.com/bMZjwIQ.png)
 4. 输入密码
 ![](https://i.imgur.com/mVrOFTF.png)
-5. 手机插卡等待有信号代表激活完成（约 1~24 小时），也会收到官方短信，即可正常使用。
+5. 手机插卡等待有信号代表激活完成，也会收到官方短信，即可正常使用。
  ![](https://i.imgur.com/TFayLS4.png)
 
 ## 充值
