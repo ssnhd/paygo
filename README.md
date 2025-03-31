@@ -67,7 +67,7 @@
 ---
 
 ## 开启 Wi-Fi Calling（仅支持 iPhone）
-![](https://i.imgur.com/7txbPjG.jpg)
+
 1. 手机开启代理，【设置】-【蜂窝网络】-【Wi-Fi 通话或无线局域网通话】-【在 iPhone 上用 Wi-Fi 通话】-【启用】。
 2. 弹窗里输入美国 E911 地址（示例如下），勾选确认信息并点击【Submit】-【Close】。
 
@@ -75,12 +75,12 @@
 - CITY 城市：`Queens`
 - STATE 州：`NY`
 - ZIP CODE 邮编：`11422`
+![](https://i.imgur.com/7txbPjG.jpg)
 
-![](https://i.imgur.com/4640m95.jpg)
 3. 等待一会，iPhone 信号处会显示 Wi-Fi Calling 字样表示已启用。
  
  ⚠️注：在国内部分地区开启较慢或无法开启，如果失败切换代理 IP 再试。
-
+![](https://i.imgur.com/4640m95.jpg)
 官方指引：https://www.ultramobile.com/blog/what-is-wifi-calling/
 
 ---
