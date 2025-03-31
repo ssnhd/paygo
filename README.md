@@ -66,16 +66,15 @@
 
 ---
 
-## 开启 Wi-Fi Calling
-1. iPhone 开启代理，【设置】-【蜂窝网络】-【Wi-Fi 通话或无线局域网通话】-【在 iPhone 上用 Wi-Fi 通话】-【启用】。
+## 开启 Wi-Fi Calling（仅支持 iPhone）
+1. 手机开启代理，【设置】-【蜂窝网络】-【Wi-Fi 通话或无线局域网通话】-【在 iPhone 上用 Wi-Fi 通话】-【启用】。
 2. 弹窗里输入美国 E911 地址，勾选确认信息并点击【Submit】-【Close】。
-3. 等待一会，iPhone 信号处会显示 Wi-Fi Calling 字样表示已启用。
-
  >地址示例：
  >- ADDRESS 1 地址：235-20 147th Ave
  >- CITY 城市：Queens
  >- STATE 州：NY
  >- ZIP CODE 邮编：11422
+3. 等待一会，iPhone 信号处会显示 Wi-Fi Calling 字样表示已启用。
 
 ⚠️注：在国内部分地区开启较慢或无法开启，如果失败切换代理 IP 再试。
 ![](https://i.imgur.com/7txbPjG.jpg)
