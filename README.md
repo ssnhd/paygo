@@ -74,10 +74,11 @@
  >- CITY 城市：Queens
  >- STATE 州：NY
  >- ZIP CODE 邮编：11422
-3. 等待一会，iPhone 信号处会显示 Wi-Fi Calling 字样表示已启用。
 
-⚠️注：在国内部分地区开启较慢或无法开启，如果失败切换代理 IP 再试。
 ![](https://i.imgur.com/7txbPjG.jpg)
+3. 等待一会，iPhone 信号处会显示 Wi-Fi Calling 字样表示已启用。
+ 
+ ⚠️注：在国内部分地区开启较慢或无法开启，如果失败切换代理 IP 再试。
 ![](https://i.imgur.com/4640m95.jpg)
 官方指引：https://www.ultramobile.com/blog/what-is-wifi-calling/
 
