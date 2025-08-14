@@ -6,6 +6,8 @@
 2. 请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负。
 3. 购买商店：[点击这里](https://t.me/GVStore)。
 
+---
+
 ## 激活
 
 **一：自己激活**
@@ -24,12 +26,16 @@
 - 网页英文客服：官网 <https://www.ultramobile.com> 右下角对话按钮，机器人会让你输入用户名、号码、邮箱等信息，然后你多次输入 **live chat**，等待人工客服。
 - 电话中文客服：拨打 +1(888) 777-0446 按 3 选择中文，等待客服接听。
 
+---
+
 ## 充值
 
 使用支持美元的信用卡（例如卡上有 VISA 或 Master 图标）进行充值，也可以联系[客服](https://t.me/GVStore)代充值。
 
 - App 充值：手机安装 Ultra Mobile 并登录，**ACCOUNT** > **Payment Method** 选择金额，填写信用卡信息充值。
 - 官网充值：打开官网 <https://my.ultramobile.com/account/paygo> 并登录，点击**加载 PayGo 钱包**，选择金额，填写信用卡信息充值。
+
+---
 
 ## 资费
 
@@ -41,7 +47,7 @@
 | 接打电话 |  3.59 美元/分钟  |
 | 开启 Wi-Fi Calling |  每月免费 100 分钟接打电话、100 条收发短信|
 
-
+---
 
 ## 电话短信格式
 
@@ -50,13 +56,19 @@
 
 ❗注意事项：不建议与中国号码联系，因为国内反诈有概率误判导致 +86 号码被锁。
 
+---
+
 ## 保号
 
 不要欠费，保持账号有余额交月租（3 美元/月）即可。
 
+---
+
 ## 查询余额
 
 网页登录官网或者手机 App里查看。
+
+---
 
 ## 开启 Wi-Fi Calling
 
@@ -81,15 +93,19 @@ Wi-Fi Calling 是指当手机连接到 Wi-Fi 网络时，可以通过 Wi-Fi 来�
 - 如果你在非美国使用 Wi-Fi Calling，一些服务（如拨打紧急电话 911）可能无法正常使用或有位置偏差。
 - 运营商可能会对某些国家的 Wi-Fi Calling 进行限制。
 
+---
+
 ## eSIM
 
-实体 SIM 卡转到 eSIM 需满足：①手机支持 eSIM（例如美版无锁 iPhone）；②安装 Ultra Mobile App。
+实体 SIM 卡转 eSIM 准备：①手机支持 eSIM（例如美版无锁 iPhone、Pixel）；②安装好 Ultra Mobile  软件。
 
-1. 手机关闭 Wi-Fi，使用国内手机卡数据流量登录 Ultra Mobile App
-2. 手机开启 Wi-Fi，点击 **Account** > 找到 My SIM 里 **Change Device** → **Switch to an eSIM** → **This is my new device** → **Order now**
-3. 提示连接无线网，点击 **I have Wi-Fi**，点击 **Order now**，按提示操作，等待 eSIM 激活成功手机有信号即可使用
+1. 手机关闭 Wi-Fi，使用国内手机卡的数据流量登录 Ultra Mobile 软件；
+2. 手机开启 Wi-Fi，点击 **Account** > 找到 My SIM 里 **Change Device** → **Switch to an eSIM** → **This is my new device** → **Order now**；
+3. 提示连接无线网，点击 **I have Wi-Fi**，点击 **Order now**，按提示操作，等待 eSIM 激活成功手机有信号即可使用。
 
-除了上述方法外，还可以联系官方客服，告知将 SIM 更换成 eSIM，按照客服提示操作。
+注：除了上述方法外，你还可以联系官方客服，告知将 SIM 更换成 eSIM，按照客服提示操作。
+
+---
 
 ## eSIM 转实体卡
 
@@ -101,6 +117,8 @@ Wi-Fi Calling 是指当手机连接到 Wi-Fi 网络时，可以通过 Wi-Fi 来�
 
 12 个月内免费申请 2 次 eSIM，超过 2 次后每次收费 3 美金。
 
+---
+
 ## 补卡
 
 联系官方客服，提供以下资料验证号码所有权，验证通过后向卡里充值 13 美元，客服会在 3 个工作日内补发，收件地址必须是美国的（例如转运公司），然后再邮寄到国内。
@@ -110,13 +128,19 @@ Wi-Fi Calling 是指当手机连接到 Wi-Fi 网络时，可以通过 Wi-Fi 来�
 4. Wi-Fi Calling 地址；
 5. 5 个联系人电话。
 
+---
+
 ## 流量包
 
 官网流量包和语音叠加只能在美国境内使用。
 
+---
+
 ## 换号码
 
 联系官方客服，一年不超过 2 次更换号码，更换号码时，SIM 卡、余额、登录密码都不变。
+
+---
 
 ## 官方客服
 
