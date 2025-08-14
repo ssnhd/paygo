@@ -97,7 +97,7 @@ Wi-Fi Calling 是指当手机连接到 Wi-Fi 网络时，可以通过 Wi-Fi 来�
 
 ## eSIM
 
-实体 SIM 卡转 eSIM 准备：①手机支持 eSIM（例如美版无锁 iPhone、Pixel）；②安装好 Ultra Mobile  软件。
+实体 SIM 卡转 eSIM 准备：①手机支持 eSIM（例如美版无锁 iPhone、Pixel）；②安装好 [Ultra Mobile](https://apps.apple.com/us/app/ultra-mobile/id1463041935)  软件。
 
 1. 手机关闭 Wi-Fi，使用国内手机卡的数据流量登录 Ultra Mobile 软件；
 2. 手机开启 Wi-Fi，点击 **Account** > 找到 My SIM 里 **Change Device** → **Switch to an eSIM** → **This is my new device** → **Order now**；
