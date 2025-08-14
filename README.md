@@ -12,12 +12,17 @@
 
 **一：自己激活**
 
-1. 手机关闭 Wi-Fi，用中国手机卡数据流量，手机浏览器打开 <https://my.ultramobile.com/paygo/activation>（右上角可选**中文**），输入卡背面右上角 ACT CODE 11 位代码，下一步；
-2. 输入名字、姓氏、邮编、邮箱，勾选**同意**，点击**继续**；
-    >❗号码归属地由城市邮编决定，例如想要纽约号码，邮编里输入 10008
-3. 点击【获得新手机号】，再次点击【获得新手机号】；
-4. 设置密码，激活成功会显示手机号；
-5. 手机插卡等待有信号即可使用（稍等会收到官方短信）。
+1. 手机关闭 Wi-Fi，用中国手机卡数据流量，手机浏览器打开 <https://my.ultramobile.com/paygo/activation>，输入卡背面右上角 ACT CODE 11 位代码，点击 **Start or Resume your Activation**
+2. 输入名字、姓、邮编、邮箱（想要哪个城市的号码就输入该城市邮编），勾选**同意**，点击 **Continue**
+3. 点击 **Get a new number**
+
+![](https://i.imgur.com/y1wJvOb.jpeg)
+
+4. 点击 **Get a new number**
+5. 设置密码，点击 **Continue**
+6. 等待激活好会显示号码，手机插卡等待有信号即激活好（稍等会收到官方短信，内容包含手机号码）
+
+![](https://i.imgur.com/lMpjd5y.jpeg)
 
 **二：官方客服代激活**
 
@@ -97,13 +102,22 @@ Wi-Fi Calling 是指当手机连接到 Wi-Fi 网络时，可以通过 Wi-Fi 来�
 
 ## eSIM
 
-实体 SIM 卡转 eSIM 准备：①手机支持 eSIM（例如美版无锁 iPhone、Pixel）；②安装好 [Ultra Mobile](https://apps.apple.com/us/app/ultra-mobile/id1463041935)  软件。
+eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 
-1. 手机关闭 Wi-Fi，使用国内手机卡的数据流量登录 Ultra Mobile 软件；
-2. 手机开启 Wi-Fi，点击 **Account** > 找到 My SIM 里 **Change Device** → **Switch to an eSIM** → **This is my new device** → **Order now**；
-3. 提示连接无线网，点击 **I have Wi-Fi**，点击 **Order now**，按提示操作，等待 eSIM 激活成功手机有信号即可使用。
+①手机支持 eSIM（例如美版无锁 iPhone、Pixel）\
+②手机安装好 [Ultra Mobile](https://apps.apple.com/us/app/ultra-mobile/id1463041935)  软件。
 
-注：除了上述方法外，你还可以联系官方客服，告知将 SIM 更换成 eSIM，按照客服提示操作。
+**步骤**：
+
+1. 手机关闭 Wi-Fi，使用国内手机卡的数据流量登录 Ultra Mobile
+2. 手机开启 Wi-Fi，登录后点击右下角 **Account** → 点击 My SIM 里 **Change Device** → **Switch to an eSIM** → **This is my new device** → **Order now**
+3. 点击 **I have Wi-Fi**，点击 **Order now**
+4. （下图左）输入手机收到的短信验证码，点击 **Order now**
+5. （下图中）打开激活时候绑定的邮箱，点击邮件里 **Install my eSIM** 会跳转到网页
+6. （下图右）手机扫描二维码，若扫描失败，复制激活码输入即可
+
+![](https://i.imgur.com/y5dKlvj.jpeg)
+
 
 ---
 
