@@ -89,11 +89,11 @@ Wi-Fi Calling 是指当手机连接到 Wi-Fi 网络时，可以通过 Wi-Fi 来�
 
 3. 等待一会，iPhone 信号处会显示 Wi-Fi Calling 字样表示已启用。
  
-❗注意事项：在国内部分地区开启较慢或无法开启，如果失败切换代理 IP 再试。官方指引：[点击这里](https://www.ultramobile.com/blog/what-is-wifi-calling/)
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)在国内部分地区开启较慢或无法开启，如果失败切换代理 IP 再试。官方指引：[点击这里](https://www.ultramobile.com/blog/what-is-wifi-calling/)
 
 ![](https://i.imgur.com/4640m95.jpg)
 
-❗注意事项
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)
 
 - 如果你在非美国使用 Wi-Fi Calling，一些服务（如拨打紧急电话 911）可能无法正常使用或有位置偏差。
 - 运营商可能会对某些国家的 Wi-Fi Calling 进行限制。
@@ -126,7 +126,7 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 1. 打开 Ultra Mobile App 并登录
 2. 点击右下角 **Account** → 点击 My SIM 里 **Change Device** → **Switch to an eSIM**，重新订购一张 eSIM 即可
 
-❗注意事项：每 12 个月可以免费订购两张 eSIM，超过后每张收 3 美元。
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)每 12 个月可以免费订购两张 eSIM，超过后每张收 3 美元。
 
 ---
 
@@ -134,7 +134,7 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 
 在 Ultra Mobile App eSIM 菜单里，**Continue using physical SIM card** 是将 eSIM 转换为实体卡，需要有美国地址收件，寄一张转换后的实体 SIM 卡给你。
 
-❗注意事项：如果你在中国需通过转运快递邮寄回国，或美国朋友带回给你。
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)如果你在中国需通过转运快递邮寄回国，或美国朋友带回给你。
 
 ---
 
@@ -148,7 +148,7 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 4. Wi-Fi Calling 地址；
 5. 五个联系人电话。
 
-❗注意事项：如果你在中国需通过转运快递邮寄回国，或美国朋友带回给你。
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)如果你在中国需通过转运快递邮寄回国，或美国朋友带回给你。
 
 ---
 
