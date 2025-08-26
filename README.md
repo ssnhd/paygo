@@ -4,7 +4,7 @@
 
 1. 据网友反馈，美卡（英国和新西兰除外）自 2025 年 2 月起，个别用户因地区/网络等原因存在被运营商停号的风险（概率极低）。
 2. 请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负。
-3. 购买商店：[点击这里](https://t.me/GVStore)。
+3. 购买商店：[点击这里](https://github.com/ssnhd/sim)。
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 充值
 
-使用支持美元的信用卡（例如卡上有 VISA 或 Master 图标）进行充值，也可以联系[客服](https://t.me/GVStore)代充值。
+使用支持美元的信用卡（例如卡上有 VISA 或 Master 图标）进行充值，也可以联系[客服](https://github.com/ssnhd/sim)代充值。
 
 - App 充值：手机安装 Ultra Mobile 并登录，**ACCOUNT** > **Payment Method** 选择金额，填写信用卡信息充值。
 - 官网充值：打开官网 <https://my.ultramobile.com/account/paygo> 并登录，点击**加载 PayGo 钱包**，选择金额，填写信用卡信息充值。
