@@ -10,6 +10,8 @@
 
 ## 激活
 
+❗注意事项：如果连续激活多张，不要用同一手机操作。
+
 **一：自己激活**
 
 1. 先不要插卡，手机关闭 Wi-Fi，用中国手机卡数据流量，手机浏览器打开 <https://my.ultramobile.com/paygo/activation>，输入卡背面右上角 ACT CODE 11 位代码，点击 **Start or Resume your Activation**
