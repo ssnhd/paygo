@@ -14,23 +14,23 @@
 
 **一：自己激活**
 
-1. 先不要插卡，手机关闭 Wi-Fi，用中国手机卡数据流量，手机浏览器打开 <https://my.ultramobile.com/paygo/activation>，输入卡背面右上角 ACT CODE 11 位代码，点击 **Start or Resume your Activation**
-2. 输入名字、姓、邮编、邮箱（想要哪个城市的号码就输入该城市邮编），勾选**同意**，点击 **Continue**
-3. 点击 **Get a new number**
+1. （下图左）先不插卡，手机关闭 Wi-Fi 并打开数据流量，手机浏览器打开[官网](https://my.ultramobile.com/paygo/activation)，输入卡上 ACT CODE 11 位代码，点击 **Start or Resume your Activation**；
+2. （下图中）输入名字、姓、邮编、邮箱（想要美国哪个城市的号码就输入该城市邮编），勾选**同意**，点击 **Continue**；
+3. （下图右）点击 **Get a new number**；
 
 ![](https://i.imgur.com/y1wJvOb.jpeg)
 
-4. 点击 **Get a new number**
-5. 设置密码，点击 **Continue**
-6. 等待激活好会显示号码，手机插卡，等待有信号即激活好（稍等会收到官方短信，内容包含手机号码）
+4. （下图左）点击 **Get a new number**；
+5. （下图中）设置密码，点击 **Continue**；
+6. （下图右）等待一会激活好会显示号码，手机插卡，出现信号即可（之后也会收到官方短信，内容包含手机号码）。
 
 ![](https://i.imgur.com/lMpjd5y.jpeg)
 
-**二：官方客服代激活**
+**二：官方激活**
 
-北京时间每晚 22 点至次日 6 点上班：
+北京时间每晚 22 点至次日 6 点人工客服上班：
 
-- 网页英文客服：官网 <https://www.ultramobile.com> 右下角对话按钮，机器人会让你输入用户名、号码、邮箱等信息，然后你多次输入 **live chat**，等待人工客服。
+- 网页英文客服：[官网](https://www.ultramobile.com)右下角对话按钮，机器人会让你输入用户名、号码、邮箱等信息，然后你多次输入 **live chat**，等待人工客服。
 - 电话中文客服：拨打 +1(888) 777-0446 按 3 选择中文，等待客服接听。
 
 ---
@@ -40,7 +40,7 @@
 使用支持美元的信用卡（例如卡上有 VISA 或 Master 图标）进行充值，也可以联系[客服](https://github.com/ssnhd/sim)代充值。
 
 - App 充值：手机安装 Ultra Mobile 并登录，**ACCOUNT** > **Payment Method** 选择金额，填写信用卡信息充值。
-- 官网充值：打开官网 <https://my.ultramobile.com/account/paygo> 并登录，点击**加载 PayGo 钱包**，选择金额，填写信用卡信息充值。
+- 官网充值：打开[官网](https://my.ultramobile.com/account/paygo)并登录，点击**加载 PayGo 钱包**，选择金额，填写信用卡信息充值。
 
 ---
 
@@ -106,8 +106,8 @@ Wi-Fi Calling 是指当手机连接到 Wi-Fi 网络时，可以通过 Wi-Fi 来�
 
 eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 
-①手机支持 eSIM（例如美版无锁 iPhone、Pixel）\
-②手机安装好 [Ultra Mobile](https://apps.apple.com/us/app/ultra-mobile/id1463041935)  软件。
+①支持 eSIM 的手机，例如美版日版无锁 iPhone、Pixel\
+②手机安装好 [Ultra Mobile](https://apps.apple.com/us/app/ultra-mobile/id1463041935)  软件
 
 **步骤**：
 
@@ -170,6 +170,6 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 
 北京时间每晚 22 点至次日 6 点美国客服上班。
 
-- 英文网页客服：官网 <https://www.ultramobile.com> 右下角对话按钮，机器人让你输入用户名、号码、邮箱等信息，然后你多次输入 **live chat**，等待人工客服。
+- 英文网页客服：[官网](https://www.ultramobile.com)右下角对话按钮，机器人让你输入用户名、号码、邮箱等信息，然后你多次输入 **live chat**，等待人工客服。
 - 中文电话客服：拨打 +18887770446，按 3 选择中文，等待人工客服接听。
 - 英文电话客服：拨打 +18558269723，若被锁必须联系此客服。
