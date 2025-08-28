@@ -1,7 +1,5 @@
 # 美国实体卡 Ultra Mobile PayGo 激活使用教程
 
-## 注意事项
-
 1. 据网友反馈，美卡（英国和新西兰除外）自 2025 年 2 月起，个别用户因地区/网络等原因存在被运营商停号的风险（概率极低）。
 2. 请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负。
 3. 购买商店：[点击这里](https://github.com/ssnhd/sim)。
@@ -10,11 +8,11 @@
 
 ## 激活
 
-❗注意事项：如果连续激活多张，不要用同一手机操作。
+注：如果连续激活多张，不要用同一手机操作。
 
-**一：自己激活**
+**自己激活**
 
-1. （下图左）先不插卡，手机关闭 Wi-Fi 并打开数据流量，手机浏览器打开[官网](https://my.ultramobile.com/paygo/activation)，输入卡上 ACT CODE 11 位代码，点击 **Start or Resume your Activation**；
+1. （下图左）先别插卡，关闭手机 Wi-Fi，用国内 SIM 卡的移动数据，在手机浏览器打开[官网](https://my.ultramobile.com/paygo/activation)，输入卡片上的 11 位 ACT CODE，点击 **Start or Resume your Activation**；
 2. （下图中）输入名字、姓、邮编、邮箱（想要美国哪个城市的号码就输入该城市邮编），勾选**同意**，点击 **Continue**；
 3. （下图右）点击 **Get a new number**；
 
@@ -26,7 +24,7 @@
 
 ![](https://i.imgur.com/lMpjd5y.jpeg)
 
-**二：官方激活**
+**官方激活**
 
 北京时间每晚 22 点至次日 6 点人工客服上班：
 
