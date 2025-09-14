@@ -8,19 +8,19 @@
 
 ## 激活
 
-注：如果连续激活多张，不要用同一手机操作。
+注：①先不要插卡，激活后再插卡；②连续激活多张，不要用同一手机操作。
 
 **自己激活**
 
-1. （下图左）先别插卡，关闭手机 Wi-Fi，用国内 SIM 卡的移动数据，在手机浏览器打开[官网](https://my.ultramobile.com/paygo/activation)，输入卡片上的 11 位 ACT CODE，点击 **Start or Resume your Activation**；
-2. （下图中）输入名、姓、邮编（想要哪个美国城市的号码就填该城市的邮编）、邮箱，勾选**同意**，点击 **Continue**；
-3. （下图右）点击 **Get a new number**；
+1. 关闭手机 Wi-Fi，用国内 SIM 卡的移动数据，在手机浏览器打开[官网](https://my.ultramobile.com/paygo/activation)，输入卡片上的 11 位 ACT CODE，点击 **Start or Resume your Activation**；
+2. 输入名、姓、邮编（想要哪个美国城市的号码就填该城市的邮编）、邮箱，勾选**同意**，点击 **Continue**；
+3. 点击 **Get a new number**；
 
 ![](https://i.imgur.com/y1wJvOb.jpeg)
 
-4. （下图左）点击 **Get a new number**；
-5. （下图中）设置密码，点击 **Continue**；
-6. （下图右）等待一会激活好会显示号码，手机插卡，出现信号即可（之后也会收到官方短信，内容包含手机号码）。
+4. 点击 **Get a new number**；
+5. 设置密码，点击 **Continue**；
+6. 等待一会激活好会显示号码，手机插卡，出现信号即可（之后也会收到官方短信，内容包含手机号码）。
 
 ![](https://i.imgur.com/lMpjd5y.jpeg)
 
