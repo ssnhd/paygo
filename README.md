@@ -8,7 +8,9 @@
 
 ## 激活
 
-注：①先不要插卡，激活后再插卡；②如果连续激活多张，不要用同一手机同一网络操作。
+一般为已激活，如果未激活请按照下面方法进行激活。
+
+注：①激活后手机再插卡；②如果连续激活多张，不要用同一手机同一网络操作。
 
 1. 手机关闭 Wi-Fi 和代理，用国内 SIM 卡移动数据，浏览器打开[官网](https://my.ultramobile.com/paygo/activation)，输入卡片上的 11 位 ACT CODE，点击 **Start or Resume your Activation**；
 2. 输入名、姓、邮编（想要哪个美国城市的号码就填该城市的邮编）、邮箱，勾选**同意**，点击 **Continue**；
@@ -24,10 +26,10 @@
 
 ## 充值
 
-使用支持美元的信用卡（例如卡上有 VISA 或 Master 图标）进行充值，也可以联系[客服](https://github.com/ssnhd/sim)代充值。
+用有 VISA 或 MasterCard 标志的信用卡进行充值，也可以联系[客服](https://github.com/ssnhd/sim)代充值。
 
-- App 充值：手机安装 Ultra Mobile 并登录，**ACCOUNT** > **Payment Method** 选择金额，填写信用卡信息充值。
-- 官网充值：打开[官网](https://my.ultramobile.com/account/paygo)并登录，点击**加载 PayGo 钱包**，选择金额，填写信用卡信息充值。
+- App 充值：登录 Ultra Mobile，**ACCOUNT** > **Payment Method** 选择金额，填写信用卡信息充值。
+- 官网充值：登录[官网](https://my.ultramobile.com/account/paygo)，点击**加载 PayGo 钱包**，选择金额，填写信用卡信息充值。
 
 
 ## 资费
