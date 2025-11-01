@@ -13,19 +13,14 @@
 1. 手机关闭 Wi-Fi 和代理，用国内 SIM 卡移动数据，浏览器打开[官网](https://my.ultramobile.com/paygo/activation)，输入卡片上的 11 位 ACT CODE，点击 **Start or Resume your Activation**；
 2. 输入名、姓、邮编（想要哪个美国城市的号码就填该城市的邮编）、邮箱，勾选**同意**，点击 **Continue**；
 3. 点击 **Get a new number**；
-
-![](https://i.imgur.com/y1wJvOb.jpeg)
-
 4. 点击 **Get a new number**；
 5. 设置密码，点击 **Continue**；
 6. 等待一会激活好会显示号码，手机插卡，出现信号即可（之后也会收到官方短信，内容包含手机号码）。
 
-![](https://i.imgur.com/lMpjd5y.jpeg)
+## 官网或App登录
 
-
-## 官网无法登录
-
-关闭代理，浏览器清空缓存并重启，使用无痕模式。
+- 电脑端：关闭代理，电脑浏览器清空缓存并重启（建议无痕模式）登录。
+- 手机端：安装Ultra Mobile App，关闭代理登录。
 
 ## 充值
 
@@ -51,7 +46,7 @@
 - 打电话：“+”+国家代码+号码，示例给英国号码打电话 `+4479xxxx8888` （长按拨号键 `0` 显示 `+`）
 - 发短信：00+国家代码+号码，示例给英国号码发短信 `004479xxxx8888`
 
-![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)不建议与中国号码联系，因为国内反诈有概率误判导致 +86 号码被锁。
+注：不建议与中国号码联系，因为国内反诈有概率误判导致 +86 号码被锁。
 
 
 ## 保号
@@ -78,11 +73,11 @@ Wi-Fi Calling 是指当手机连接到 Wi-Fi 网络时，可以通过 Wi-Fi 来�
 
 3. 等待一会，iPhone 信号处会显示 Wi-Fi Calling 字样表示已启用。
  
-![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)在国内部分地区开启较慢或无法开启，如果失败切换代理 IP 再试。官方指引：[点击这里](https://www.ultramobile.com/blog/what-is-wifi-calling/)
+注：在国内部分地区开启较慢或无法开启，如果失败切换代理 IP 再试。官方指引：[点击这里](https://www.ultramobile.com/blog/what-is-wifi-calling/)
 
 ![](https://i.imgur.com/4640m95.jpg)
 
-![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)
+注：
 
 - 如果你在非美国使用 Wi-Fi Calling，一些服务（如拨打紧急电话 911）可能无法正常使用或有位置偏差。
 - 运营商可能会对某些国家的 Wi-Fi Calling 进行限制。
@@ -113,14 +108,14 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 1. 打开 Ultra Mobile App 并登录
 2. 点击右下角 **Account** → 点击 My SIM 里 **Change Device** → **Switch to an eSIM**，重新订购一张 eSIM 即可
 
-![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)每 12 个月可以免费订购两张 eSIM，超过后每张收 3 美元。
+注：每 12 个月可以免费订购两张 eSIM，超过后每张收 3 美元。
 
 
 ## eSIM 转实体卡
 
 在 Ultra Mobile App eSIM 菜单里，**Continue using physical SIM card** 是将 eSIM 转换为实体卡，需要有美国地址收件，寄一张转换后的实体 SIM 卡给你。
 
-![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)如果你在中国需通过转运快递邮寄回国，或美国朋友带回给你。
+注：如果你在中国需通过转运快递邮寄回国，或美国朋友带回给你。
 
 
 ## 补卡
@@ -133,7 +128,7 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 4. Wi-Fi Calling 地址；
 5. 五个联系人电话。
 
-![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)如果你在中国需通过转运快递邮寄回国，或美国朋友带回给你。
+注：如果你在中国需通过转运快递邮寄回国，或美国朋友带回给你。
 
 
 ## 流量包
