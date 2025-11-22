@@ -64,9 +64,7 @@
 
 ## 开启 Wi-Fi Calling
 
-Wi-Fi Calling 是指当手机连接到 Wi-Fi 网络时，可以通过 Wi-Fi 来拨打电话和发送短信，而不是依赖蜂窝移动信号（如 4G/5G）。
-
-1. 手机开启代理，【设置】-【蜂窝网络】-【Wi-Fi 通话或无线局域网通话】-【在 iPhone 上用 Wi-Fi 通话】-【启用】。
+1. iPhone 开启美国代理，【设置】-【蜂窝网络】-【Wi-Fi 通话或无线局域网通话】-【在 iPhone 上用 Wi-Fi 通话】-【启用】（注：如无法开启，切换代理节点）。
 2. 弹窗里输入美国 E911 地址（示例如下），勾选确认信息并点击【Submit】-【Close】。
 
     - ADDRESS 1 地址：`235-20 147th Ave`
@@ -76,7 +74,7 @@ Wi-Fi Calling 是指当手机连接到 Wi-Fi 网络时，可以通过 Wi-Fi 来�
 
 3. 等待一会，iPhone 信号处会显示 Wi-Fi Calling 字样表示已启用。
  
-注：在国内部分地区开启较慢或无法开启，如果失败切换代理 IP 再试。官方指引：[点击这里](https://www.ultramobile.com/blog/what-is-wifi-calling/)
+官方教程：[点击这里](https://www.ultramobile.com/blog/what-is-wifi-calling/)
 
 ![](https://i.imgur.com/4640m95.jpg)
 
