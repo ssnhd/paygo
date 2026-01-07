@@ -1,39 +1,27 @@
 # 美国实体卡 Ultra Mobile PayGo 激活使用教程
 
-1. 据网友反馈，美卡（英国和新西兰除外）自 2025 年 2 月起，个别用户因地区/网络等原因存在被运营商停号的风险（概率极低）。
-2. 请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负。
-3. 购买商店：[点击这里](https://github.com/ssnhd/sim)。
+1. 请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负。
+2. 购买商店：[点击这里](https://github.com/ssnhd/sim)。
 
 ---
 
-## 插卡
+## 收到后
 
-一般为已激活（若未激活按照下面方法激活），插卡等待有信号即可。
+插卡等待有信号即可。
 
-注：不建议使用小米/红米手机，网络制式支持有限，可能出现无信号的情况。
+>注：不建议使用小米/红米手机，网络制式支持有限，可能出现无信号或等待很久才有信号的情况。
 
-## 激活
+## 登录
 
-注：①激活后手机再插卡；②如果连续激活多张，不要用同一手机同一网络操作。
-
-1. 手机关闭 Wi-Fi 和代理，用国内 SIM 卡移动数据，浏览器打开[官网](https://my.ultramobile.com/paygo/activation)，输入卡片上的 11 位 ACT CODE，点击 **Start or Resume your Activation**；
-2. 输入名、姓、邮编（想要哪个美国城市的号码就填该城市的邮编）、邮箱，勾选**同意**，点击 **Continue**；
-3. 点击 **Get a new number**；
-4. 点击 **Get a new number**；
-5. 设置密码，点击 **Continue**；
-6. 等待一会激活好会显示号码，手机插卡，出现信号即可（之后也会收到官方短信，内容包含手机号码）。
-
-## 官网或App登录
-
-- 电脑端：关闭代理，电脑浏览器清空缓存并重启（建议无痕模式）登录。
-- 手机端：安装Ultra Mobile App，关闭代理登录。
+- 电脑：关闭代理/VPN，Chrome 浏览器清空缓存并重启（建议无痕模式）打开 https://my.ultramobile.com/account/summary 输入号码和密码登录。
+- 手机：安装 Ultra Mobile App，关闭代理，输入号码和密码登录。
 
 ## 充值
 
-用有 VISA 或 MasterCard 标志的信用卡进行充值，也可以联系[客服](https://github.com/ssnhd/sim)代充值。
+用有 VISA 或 MasterCard 标志的信用卡在官网或 App 进行充值，也可以联系[客服](https://github.com/ssnhd/sim)代充值。
 
-- App 充值：登录 Ultra Mobile，**ACCOUNT** > **Payment Method** 选择金额，填写信用卡信息充值。
-- 官网充值：登录[官网](https://my.ultramobile.com/account/paygo)，点击**加载 PayGo 钱包**，选择金额，填写信用卡信息充值。
+- App：登录 Ultra Mobile，**ACCOUNT** > **Payment Method** 选择金额，填写信用卡信息充值。
+- 官网：登录官网，点击**加载 PayGo 钱包**，选择金额，填写信用卡信息充值。
 
 
 ## 资费
@@ -43,7 +31,8 @@
 | 月租 | 3 美元|
 | 收短信 |  0.1 美元/条|
 |发短信|0.5 美元/条 |
-| 接打电话 |  3.59 美元/分钟  |
+| 接电话 |  3.59 美元/分钟  |
+| 打电话 |  3.59 美元/分钟  |
 | Wi-Fi Calling |  每月免费 100 分钟接打电话、100 条收发短信|
 
 
@@ -59,13 +48,13 @@
 
 ## 保号
 
-不要欠费，保持账号有余额交月租（3 美元/月）即可。
+不要欠费，保持账号有余额扣月租（3 美元/月）即可。
 
 
 ## 查询余额和有效期
 
-- 方法一：登录官网或 App 查询。
-- 方法二：编辑短信 `BAL` 发送到 `6700` 可快速查询话费，同时也会显示有效期。
+- 方法一：编辑短信 `BAL` 发送到 `6700` 可查询话费，同时也会显示有效期。
+- 方法二：登录官网或 App 查询。
 
 
 ## 开启 Wi-Fi Calling
@@ -74,31 +63,28 @@
 2. 首次启用需填写美国 E911 地址（可以打开 Google 地图生成地址），勾选确认信息并点击【Submit】-【Close】。
 3. 等待一会，信号处会显示 Wi-Fi Calling 字样表示已启用。
  
-官方教程：[点击这里](https://www.ultramobile.com/blog/what-is-wifi-calling/)
+官方教程：[点击这里](https://www.ultramobile.com/blog/what-is-wifi-calling/)。
 
 ![](https://i.imgur.com/4640m95.jpg)
 
-注：
-
-- 如果你在非美国使用 Wi-Fi Calling，一些服务（如拨打紧急电话 911）可能无法正常使用或有位置偏差。
-- 运营商可能会对某些国家的 Wi-Fi Calling 进行限制。
+>注：
+>- 如果你在非美国使用 Wi-Fi Calling，一些服务（如拨打紧急电话 911）可能无法正常使用或有位置偏差。
+>- 运营商可能会对某些国家的 Wi-Fi Calling 进行限制。
 
 
 ## eSIM
 
-eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
-
-①支持 eSIM 的手机，例如美版日版无锁 iPhone、Pixel\
-②手机安装好 [Ultra Mobile](https://apps.apple.com/us/app/ultra-mobile/id1463041935)  软件
+1. 需要有支持 eSIM 的手机，例如美、日版无锁 iPhone；
+2. 手机安装好 [Ultra Mobile](https://apps.apple.com/us/app/ultra-mobile/id1463041935)  App。
 
 **步骤**：
 
-1. 手机关闭 Wi-Fi，使用国内手机卡的数据流量登录 Ultra Mobile
-2. 手机开启 Wi-Fi，登录后点击右下角 **Account** → 点击 My SIM 里 **Change Device** → **Switch to an eSIM** → **This is my new device** → **Order now**
-3. 点击 **I have Wi-Fi**，点击 **Order now**
-4. （下图左）输入手机收到的短信验证码，点击 **Order now**
-5. （下图中）打开激活时候绑定的邮箱，点击邮件里 **Install my eSIM** 会跳转到网页
-6. （下图右）手机扫描二维码，若扫描失败，复制激活码输入即可
+1. 使用国内手机卡的数据流量登录 Ultra Mobile；
+2. 手机连接 Wi-Fi，登录后点击右下角 **Account** → 点击 My SIM 里 **Change Device** → **Switch to an eSIM** → **This is my new device** → **Order now**；
+3. 点击 **I have Wi-Fi**，点击 **Order now**；
+4. （下图左）输入手机收到的短信验证码，点击 **Order now**；
+5. （下图中）打开激活时候绑定的邮箱，点击邮件里 **Install my eSIM** 会跳转到网页；
+6. （下图右）手机扫描二维码，若扫描失败，复制激活码输入即可。
 
 ![](https://i.imgur.com/y5dKlvj.jpeg)
 
@@ -109,14 +95,14 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 1. 打开 Ultra Mobile App 并登录
 2. 点击右下角 **Account** → 点击 My SIM 里 **Change Device** → **Switch to an eSIM**，重新订购一张 eSIM 即可
 
-注：每 12 个月可以免费订购两张 eSIM，超过后每张收 3 美元。
+>注：每 12 个月可以免费订购两张 eSIM，超过后每张收 3 美元。
 
 
 ## eSIM 转实体卡
 
 在 Ultra Mobile App eSIM 菜单里，**Continue using physical SIM card** 是将 eSIM 转换为实体卡，需要有美国地址收件，寄一张转换后的实体 SIM 卡给你。
 
-注：如果你在中国需通过转运快递邮寄回国，或美国朋友带回给你。
+>注：如果你在中国需通过转运快递邮寄回国，或美国朋友带回给你。
 
 
 ## 补卡
@@ -129,12 +115,12 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 4. Wi-Fi Calling 地址；
 5. 五个联系人电话。
 
-注：如果你在中国需通过转运快递邮寄回国，或美国朋友带回给你。
+>注：如果你在中国需通过转运快递邮寄回国，或美国朋友带回给你。
 
 
 ## 流量包
 
-官网流量包和语音叠加只能在美国境内使用。
+官网流量包和语音叠加只能在美国境内使用，不支持在其他国家使用。
 
 
 ## 换号码
@@ -150,4 +136,4 @@ eSIM 是电子 SIM 卡，无需插卡就能在手机里使用，准备：
 - 中文电话客服：拨打 +18887770446，按 3 选择中文，等待人工客服接听。
 
 
-如果激活时提示“Something went wrong”，说明你的卡被当地运营商锁了，须联系客服：+18558269723 申请解锁，太平洋标准时间上午 8 点至下午 5 点（北京时间周一至周五凌晨 0 点至上午 9 点）。
+>注：如果提示“Something went wrong”，说明你的卡被当地运营商锁了，须联系客服：+18558269723 申请解锁，太平洋标准时间上午 8 点至下午 5 点（北京时间周一至周五凌晨 0 点至上午 9 点）。
