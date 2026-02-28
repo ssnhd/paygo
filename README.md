@@ -72,21 +72,25 @@
 
 ## eSIM
 
-- 支持 eSIM 的手机，例如美版无锁 iPhone；
+- 支持 eSIM 的手机，例如美版、日版无锁 iPhone；
 - 手机安装好 [Ultra Mobile](https://apps.apple.com/us/app/ultra-mobile/id1463041935)  App。
 
 **步骤**：
 
-1. 使用国内手机卡的数据流量登录 Ultra Mobile；
-2. 手机连接 Wi-Fi，登录后点击右下角 **Account** → 点击 My SIM 里 **Change Device** → **Switch to an eSIM** → **This is my new device** → **Order now**；
+1. 关闭代理/VPN，登录 App；
+2. 手机连接 Wi-Fi，点击右下角 **Account**（账户） → **Change Device**（切换设备） → **Switch to an eSIM**（切换到 eSIM） → **This is my new device**（这是我的新设备） → **Order now**（立即订购）；
 3. 点击 **I have Wi-Fi**，点击 **Order now**；
-4. （下图左）输入手机收到的短信验证码，点击 **Order now**；
-5. （下图中）打开激活时候绑定的邮箱，点击邮件里 **Install my eSIM** 会跳转到网页；
-6. （下图右）手机扫描二维码，若扫描失败，复制激活码输入即可。
+4. 输入收到的短信验证码，点击 **Order now**；
+5. 页面会刷新，大概需要等待 1 分钟左右。
+6. 跳转到新的页面，说明 eSIM 已经订购成功，点击 **Continue**，等待激活好即可。
 
-![](https://i.imgur.com/y5dKlvj.jpeg)
+⚠️注：也可以通过二维码安装 eSIM，在上面第 6 步时**不要点击**「Continue」，退出 App，等待几分钟在你的卡绑定邮箱里会收到一封邮件，邮件里点击 **Install my eSIM** 会跳转到网页，扫码或者输入激活代码即可。
 
+官方 eSIM 教程介绍：https://www.ultramobile.com/blog/how-to-switch-from-physical-sim-to-an-esim/
 
+## eSIM 收费吗？
+
+每 12 个月免费提供 5 次转 eSIM。超过后每次收费 3 美元。
 
 ## 迁移 eSIM
 
