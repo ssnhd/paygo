@@ -143,3 +143,12 @@ https://www.ultramobile.com/paygo
 
 
 >注：如果提示“Something went wrong”，说明你的卡被当地运营商锁了，须联系客服：+18558269723 申请解锁，太平洋标准时间上午 8 点至下午 5 点（北京时间周一至周五凌晨 0 点至上午 9 点）。
+
+## 美国 FCC
+
+使用过程中遇到任何官方客服无法解决的问题（例如风控导致无服务），可以向美国 FCC 投诉。
+
+注：投诉时要求解封或者要 PIN 码（转到其他运营商需要这个），且要留下你的其他美国号码，方便他们联系到你。
+
+FCC 官网：https://consumercomplaints.fcc.gov/hc/en-us
+![](https://i.imgur.com/3SM09Wk.png)
